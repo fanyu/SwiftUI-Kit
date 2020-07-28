@@ -25,6 +25,12 @@
 		7C75379524CFFC2B004697E7 /* Health.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379324CFFC2B004697E7 /* Health.swift */; };
 		7C75379724D007FD004697E7 /* Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379624D007FD004697E7 /* Twitter.swift */; };
 		7C75379824D007FD004697E7 /* Twitter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379624D007FD004697E7 /* Twitter.swift */; };
+		7C75379A24D01E53004697E7 /* MapApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379924D01E53004697E7 /* MapApp.swift */; };
+		7C75379B24D01E53004697E7 /* MapApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379924D01E53004697E7 /* MapApp.swift */; };
+		7C75379D24D02325004697E7 /* iPod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379C24D02325004697E7 /* iPod.swift */; };
+		7C75379E24D02325004697E7 /* iPod.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379C24D02325004697E7 /* iPod.swift */; };
+		7C7537A024D049A1004697E7 /* ToolBarGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379F24D049A1004697E7 /* ToolBarGroup.swift */; };
+		7C7537A124D049A1004697E7 /* ToolBarGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C75379F24D049A1004697E7 /* ToolBarGroup.swift */; };
 		7C8A5F7424CECE3800B46FCD /* ColorGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5F7324CECE3800B46FCD /* ColorGroup.swift */; };
 		7C8A5F7524CECE3800B46FCD /* ColorGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5F7324CECE3800B46FCD /* ColorGroup.swift */; };
 		7C8A5F7724CED37400B46FCD /* ControlGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5F7624CED37400B46FCD /* ControlGroup.swift */; };
@@ -95,6 +101,9 @@
 		7C46099A24C99F77009881F9 /* ButtonGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonGroup.swift; sourceTree = "<group>"; };
 		7C75379324CFFC2B004697E7 /* Health.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Health.swift; sourceTree = "<group>"; };
 		7C75379624D007FD004697E7 /* Twitter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Twitter.swift; sourceTree = "<group>"; };
+		7C75379924D01E53004697E7 /* MapApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapApp.swift; sourceTree = "<group>"; };
+		7C75379C24D02325004697E7 /* iPod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iPod.swift; sourceTree = "<group>"; };
+		7C75379F24D049A1004697E7 /* ToolBarGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToolBarGroup.swift; sourceTree = "<group>"; };
 		7C8A5F7324CECE3800B46FCD /* ColorGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorGroup.swift; sourceTree = "<group>"; };
 		7C8A5F7624CED37400B46FCD /* ControlGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ControlGroup.swift; sourceTree = "<group>"; };
 		7C8A5F7924CEE60200B46FCD /* FontGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FontGroup.swift; sourceTree = "<group>"; };
@@ -216,6 +225,8 @@
 				7C8A5FC124CFCBB300B46FCD /* SunSet.swift */,
 				7C75379324CFFC2B004697E7 /* Health.swift */,
 				7C75379624D007FD004697E7 /* Twitter.swift */,
+				7C75379924D01E53004697E7 /* MapApp.swift */,
+				7C75379C24D02325004697E7 /* iPod.swift */,
 			);
 			path = Demos;
 			sourceTree = "<group>";
@@ -234,6 +245,7 @@
 				7C8A5F8224CEFE2600B46FCD /* TextGroup.swift */,
 				7C8A5F8524CFBEF200B46FCD /* IndicatorGroup.swift */,
 				7C8A5F8824CFC27E00B46FCD /* ShapeGroup.swift */,
+				7C75379F24D049A1004697E7 /* ToolBarGroup.swift */,
 			);
 			path = Kit;
 			sourceTree = "<group>";
@@ -426,6 +438,7 @@
 				7C8A5F7D24CEE6F900B46FCD /* HapticGroup.swift in Sources */,
 				7C8A5F8024CEFADC00B46FCD /* ImageGroup.swift in Sources */,
 				7C8A5F8924CFC27E00B46FCD /* ShapeGroup.swift in Sources */,
+				7C75379A24D01E53004697E7 /* MapApp.swift in Sources */,
 				7C46097E24C93E75009881F9 /* ContentView.swift in Sources */,
 				7C46097C24C93E75009881F9 /* SwiftUI_KitApp.swift in Sources */,
 				7C8A5F8624CFBEF200B46FCD /* IndicatorGroup.swift in Sources */,
@@ -434,6 +447,8 @@
 				7C8A5FC224CFCBB300B46FCD /* SunSet.swift in Sources */,
 				7C46099B24C99F78009881F9 /* ButtonGroup.swift in Sources */,
 				7C75379724D007FD004697E7 /* Twitter.swift in Sources */,
+				7C7537A024D049A1004697E7 /* ToolBarGroup.swift in Sources */,
+				7C75379D24D02325004697E7 /* iPod.swift in Sources */,
 				7C46099224C942A9009881F9 /* SectionView.swift in Sources */,
 				7C8A5F7A24CEE60200B46FCD /* FontGroup.swift in Sources */,
 				7C75379424CFFC2B004697E7 /* Health.swift in Sources */,
@@ -449,6 +464,7 @@
 				7C8A5F7E24CEE6F900B46FCD /* HapticGroup.swift in Sources */,
 				7C8A5F8124CEFADC00B46FCD /* ImageGroup.swift in Sources */,
 				7C8A5F8A24CFC27E00B46FCD /* ShapeGroup.swift in Sources */,
+				7C75379B24D01E53004697E7 /* MapApp.swift in Sources */,
 				7C46097F24C93E75009881F9 /* ContentView.swift in Sources */,
 				7C46097D24C93E75009881F9 /* SwiftUI_KitApp.swift in Sources */,
 				7C8A5F8724CFBEF200B46FCD /* IndicatorGroup.swift in Sources */,
@@ -457,6 +473,8 @@
 				7C8A5FC324CFCBB300B46FCD /* SunSet.swift in Sources */,
 				7C46099C24C99F78009881F9 /* ButtonGroup.swift in Sources */,
 				7C75379824D007FD004697E7 /* Twitter.swift in Sources */,
+				7C7537A124D049A1004697E7 /* ToolBarGroup.swift in Sources */,
+				7C75379E24D02325004697E7 /* iPod.swift in Sources */,
 				7C46099324C942A9009881F9 /* SectionView.swift in Sources */,
 				7C8A5F7B24CEE60200B46FCD /* FontGroup.swift in Sources */,
 				7C75379524CFFC2B004697E7 /* Health.swift in Sources */,
