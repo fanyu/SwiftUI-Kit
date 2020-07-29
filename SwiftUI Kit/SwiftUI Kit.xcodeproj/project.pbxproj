@@ -49,6 +49,10 @@
 		7C8A5F8A24CFC27E00B46FCD /* ShapeGroup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5F8824CFC27E00B46FCD /* ShapeGroup.swift */; };
 		7C8A5FC224CFCBB300B46FCD /* SunSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5FC124CFCBB300B46FCD /* SunSet.swift */; };
 		7C8A5FC324CFCBB300B46FCD /* SunSet.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C8A5FC124CFCBB300B46FCD /* SunSet.swift */; };
+		7CCF1BBA24D052CE001CD029 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCF1BB924D052CE001CD029 /* Todo.swift */; };
+		7CCF1BBB24D052CE001CD029 /* Todo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCF1BB924D052CE001CD029 /* Todo.swift */; };
+		7CCF1BBD24D15FCC001CD029 /* Mail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCF1BBC24D15FCC001CD029 /* Mail.swift */; };
+		7CCF1BBE24D15FCC001CD029 /* Mail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CCF1BBC24D15FCC001CD029 /* Mail.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -114,6 +118,8 @@
 		7C8A5F8824CFC27E00B46FCD /* ShapeGroup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapeGroup.swift; sourceTree = "<group>"; };
 		7C8A5F8D24CFC4EC00B46FCD /* SwiftUI Kit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "SwiftUI Kit.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7C8A5FC124CFCBB300B46FCD /* SunSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SunSet.swift; sourceTree = "<group>"; };
+		7CCF1BB924D052CE001CD029 /* Todo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo.swift; sourceTree = "<group>"; };
+		7CCF1BBC24D15FCC001CD029 /* Mail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mail.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -227,6 +233,8 @@
 				7C75379624D007FD004697E7 /* Twitter.swift */,
 				7C75379924D01E53004697E7 /* MapApp.swift */,
 				7C75379C24D02325004697E7 /* iPod.swift */,
+				7CCF1BB924D052CE001CD029 /* Todo.swift */,
+				7CCF1BBC24D15FCC001CD029 /* Mail.swift */,
 			);
 			path = Demos;
 			sourceTree = "<group>";
@@ -452,7 +460,9 @@
 				7C46099224C942A9009881F9 /* SectionView.swift in Sources */,
 				7C8A5F7A24CEE60200B46FCD /* FontGroup.swift in Sources */,
 				7C75379424CFFC2B004697E7 /* Health.swift in Sources */,
+				7CCF1BBD24D15FCC001CD029 /* Mail.swift in Sources */,
 				7C8A5F7424CECE3800B46FCD /* ColorGroup.swift in Sources */,
+				7CCF1BBA24D052CE001CD029 /* Todo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -478,7 +488,9 @@
 				7C46099324C942A9009881F9 /* SectionView.swift in Sources */,
 				7C8A5F7B24CEE60200B46FCD /* FontGroup.swift in Sources */,
 				7C75379524CFFC2B004697E7 /* Health.swift in Sources */,
+				7CCF1BBE24D15FCC001CD029 /* Mail.swift in Sources */,
 				7C8A5F7524CECE3800B46FCD /* ColorGroup.swift in Sources */,
+				7CCF1BBB24D052CE001CD029 /* Todo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
