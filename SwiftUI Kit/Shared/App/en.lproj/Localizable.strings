@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  SwiftUI Kit
+
+  Created by FanYu on 2020/8/2.
+  
+*/
+
+"kits.tab.text" = "Kits";
+"home.tab.text" = "Home";
+"discover.tab.text" = "Discover";
+"mine.tab.text" = "Mine";
+
